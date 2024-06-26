@@ -1,3 +1,3 @@
-module ardy
+module github.com/timeitel/ardy
 
-go 1.20
+go 1.22
